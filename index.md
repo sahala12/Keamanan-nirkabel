@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-https://github.com/sahala12/Keamanan-nirkabel/blob/gh-pages/IMG-20191201-WA0038.jpgi
+IMG-20191201-WA0038.jpgi
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
